@@ -163,7 +163,7 @@ params:
       category: Websites
       link: https://dash.seanodes.net/
     - name: Forums
-      description: The guts of the application.
+      description: SeaNodes Forums
       category: Websites
       link: http://forums.tsunaminet.ml/
 
