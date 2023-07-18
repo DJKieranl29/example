@@ -1,0 +1,1 @@
+{"errors":[{"code":"ValidationException","status":"422","detail":"The Go Package variable must be a string.","meta":{"source_field":"environment.GO_PACKAGE","rule":"string"}},{"code":"ValidationException","status":"422","detail":"The Executable variable must be a string.","meta":{"source_field":"environment.EXECUTABLE","rule":"string"}}]}
